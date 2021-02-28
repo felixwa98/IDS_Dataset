@@ -1,0 +1,12 @@
+ls
+ls -l
+whoami
+id
+ping 8.8.8.8
+touch 123.txt && rm 123.txt
+echo hi > 123.txt && rm 123.txt
+hostname
+uname -a
+ip addr
+
+

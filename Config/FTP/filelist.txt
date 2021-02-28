@@ -1,0 +1,9 @@
+C:\\config\ftp\1006862.pdf
+C:\\config\ftp\2013_Book_DataTrafficMonitoringAndAnalys.pdf
+C:\\config\ftp\2018_10_AnomalyDetection_ISCA.pdf
+C:\\config\ftp\2020_Book_MachineLearningForNetworking.pdf
+C:\\config\ftp\2001_Book_FoundationsOfSecurityAnalysisA.pdf
+C:\\config\ftp\2014_Book_FoundationsOfSecurityAnalysisA.pdf
+C:\\config\ftp\2019_Book_MachineLearningForCyberPhysica.pdf
+C:\\config\ftp\applsci-10-00724-v2.pdf
+
