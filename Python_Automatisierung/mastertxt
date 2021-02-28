@@ -1,0 +1,56 @@
+[DEFAULT]
+
+Hostname = xxx
+IP-Addresse = xxx.xxx.xxx.xxx
+Subnet = xxx
+Hostid = xxx
+
+[WORKING]
+
+browsing_active = 1
+email_active = 1
+ftp_active = 1
+ssh_active = 1
+voip_active = 1
+break_active = 1
+
+
+[BROWSING]
+
+videolist= C:\\config\browsing\videolist.txt
+searchlist= C:\config\browsing\searchlist.txt
+newslist = C:\\config\browsing\newslist.txt
+
+[EMAIL]
+
+smtpserver = C:\\config\email\smtpserver.txt
+destinationaddresslist = C:\\config\email\destinationaddresslist.txt
+bodylist = C:\\config\email\bodylist.txt
+subjectlist = C:\\config\email\subjectlist.txt
+attachmentslist = C:\\config\email\attachmentslist.txt
+
+[FTP]
+
+server_list = C:\\config\ftp\server_list.txt
+file_list = C:\\config\ftp\file_list.txt
+
+[SSH]
+
+server_list = C:\\config\ssh\server_list.txt
+command_list = C:\\config\ssh\command_list.txt
+
+
+[VOIP]
+
+music_list = C:\\config\ftp\music_list.txt
+
+[BREAK]
+
+dummy = test
+
+[LOG]
+
+logfile = C:\\log
+loglevel = 1
+
+[ATTACK]
