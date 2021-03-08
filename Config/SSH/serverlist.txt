@@ -1,14 +1,14 @@
 [Server1]
 ip = 52.15.67.187
 username = ubuntu
-password = ubuntu123q
+password = xxx
 
 [Server2]
 ip = 3.13.232.124
 username = ubuntu
-password = ubuntu123q
+password = xxx
 
 [Server3]
 ip = 3.23.192.212
 username = ubuntu
-password = ubuntu123q
+password = xxx
