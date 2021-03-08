@@ -53,4 +53,4 @@ def main(music):
     song = choose_random_line(music)
 
 
-    client.run('Nzk2MDQzNDE1NDg5NzQwODMx.X_SLNA.xYU5B6lavDsvkFE71PmKulmUhQo')
+    client.run('API-Key')
